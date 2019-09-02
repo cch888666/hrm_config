@@ -9,5 +9,5 @@ spring:
       username: root
       password: 888666
 mybatis-plus:
-  mapper-locations: classpath:cn/itsource/hrm/mapper/*Mapper.xml
+  mapper-locations: classpath:com/cch/hrm/mapper/*Mapper.xml
   type-aliases-package: com.cch.hrm.domain,com.cch.hrm.query
